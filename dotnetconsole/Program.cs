@@ -2,5 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 
-Console.WriteLine("Hello, World! 2");
+// ini benar
 Console.WriteLine("Hello, World! 3");

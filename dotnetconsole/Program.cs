@@ -6,6 +6,5 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World! 3");
 Console.WriteLine("Hello, World! 3");
 Console.WriteLine("Hello, World! 3");
-Console.WriteLine("Hello, World! 3");
-Console.WriteLine("Hello, World! 3");
+// ini yang benar
 Console.WriteLine("Hello, World! 3");

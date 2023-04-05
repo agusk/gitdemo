@@ -10,3 +10,6 @@ Product o = new Product{Id=1, Name="Product 1", Description="Product 1 Descripti
 Console.WriteLine(o.Id);
 
 Console.WriteLine(o.Name);
+
+
+Shop f = new Shop{Name="Shop 1", Address="Address 1", City="City 1"};
